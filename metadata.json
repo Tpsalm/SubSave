@@ -1,0 +1,5 @@
+{
+  "name": "SubSave",
+  "description": "A minimalist subscription tracker to manage your monthly spend with automated reminders.",
+  "requestFramePermissions": []
+}
